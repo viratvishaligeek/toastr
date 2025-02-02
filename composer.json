@@ -18,8 +18,10 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "ViratVishalIgeek",
-            "email": "viratvishaligeek@gmil.com"
+            "name": "Virat Vishal",
+            "email": "viratvishaligeek@gmail.com",
+            "role": "Developer",
+            "homepage": "http://wa.me/+918360840040"
         }
     ],
     "require": {
