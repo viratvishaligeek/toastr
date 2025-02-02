@@ -2,8 +2,6 @@
 
 Ebook Toastr is a Laravel package that provides an easy way to display toast notifications in your Laravel applications.
 
-![Ebook Toastr](https://cdn.ebook.com/github/nRaAYW9TQI.jpg)
-
 
 ## Table of Contents
 
@@ -294,7 +292,7 @@ For the full text of the MIT License, see the [LICENSE](LICENSE) file included i
 
 For support, questions, or feedback, please don't hesitate to reach out to us:
 
-- Email: [support@ebook.com](mailto:support@ebook.com)
+- Email: [viratvishaligeek@gmail.com](mailto:viratvishaligeek@gmail.com)
 
 We value your input and are here to assist you with any inquiries or assistance you may need.
 
