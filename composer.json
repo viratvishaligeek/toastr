@@ -1,0 +1,56 @@
+{
+    "name": "ebook/toastr",
+    "description": "A Laravel package for displaying toast notifications.",
+    "keywords": [
+        "ebook",
+        "laravel",
+        "toastr",
+        "notification",
+        "toast",
+        "alerts",
+        "messages",
+        "flash messages",
+        "pop-up",
+        "user interface",
+        "frontend"
+    ],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ViratVishalIgeek",
+            "email": "viratvishaligeek@gmil.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.0",
+        "illuminate/session": ">=8.0",
+        "illuminate/support": ">=8.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ebook\\Toastr\\": "src/"
+        },
+        "files": [
+            "src/Helpers.php"
+        ]
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Ebook\\Toastr\\ToastrServiceProvider"
+            ],
+            "aliases": {
+                "Toastr": "Ebook\\Toastr\\Facades\\Toastr"
+            }
+        }
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
