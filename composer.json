@@ -1,6 +1,6 @@
 {
     "name": "ebook/toastr",
-    "description": "A Laravel package for displaying toast notifications.",
+    "description": "A Laravel package for displaying toast notifications. Using this you can show success, error, warning, info messages.",
     "keywords": [
         "ebook",
         "laravel",
